@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&&color=87CEFA&text=My&nbsp;name&nbsp;is&nbsp;MinJi&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=cylinder&&color=87CEFA&text=MinJi&fontColor=000000)
 
 ### ✉️ Address
 rkdalswl5464@naver.com
